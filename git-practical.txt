@@ -1,0 +1,11 @@
+GitHub Practical
+
+Project Name: AI-Project-Gallery
+
+Feature Branch: git-exam0
+
+Changes Implemented:
+1. Created a feature branch.
+2. Added a new practical file.
+3. Demonstrated GitHub collaboration.
+4. Prepared changes for Pull Request.
